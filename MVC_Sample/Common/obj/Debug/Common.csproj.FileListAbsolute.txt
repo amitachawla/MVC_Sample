@@ -1,0 +1,5 @@
+C:\Users\amita\MVC_Sample\MVC_Sample\Common\bin\Debug\Common.dll
+C:\Users\amita\MVC_Sample\MVC_Sample\Common\bin\Debug\Common.pdb
+C:\Users\amita\MVC_Sample\MVC_Sample\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\amita\MVC_Sample\MVC_Sample\Common\obj\Debug\Common.dll
+C:\Users\amita\MVC_Sample\MVC_Sample\Common\obj\Debug\Common.pdb
